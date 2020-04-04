@@ -1,0 +1,2 @@
+rootProject.name='CalculadoraDeGorjetaProjetoKotlin'
+include ':app'
